@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #E5E5E5;
+    width: 1200px;
+    height: 1319;
+    margin: 0 auto;
+}
+.main_content{
+    background-color: #FFFFFF;
+}
+.sidebar {
+    background-color: #1E2939;
+}
